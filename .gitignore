@@ -2,6 +2,7 @@
 *.sublime-project
 *secrets*
 *private*
+*esp32.bin
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
