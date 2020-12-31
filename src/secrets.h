@@ -1,0 +1,9 @@
+#define SECRET_WIFI_NAME_2     "Lab3"
+#define SECRET_WIFI_PASS_2     "j2rN3ZWS"
+#define SECRET_WIFI_NAME_1     "Dominion2.4"
+#define SECRET_WIFI_PASS_1     "DoCeNk0123456789-14159265"
+
+#define SECRET_MQTT_BROKER_URL  "192.168.88.248"
+#define SECRET_MQTT_BROKER_PORT 1883
+#define SECRET_MQTT_USER_NAME   "user45"
+#define SECRET_MQTT_USER_PASS   "proKOpunkt"
